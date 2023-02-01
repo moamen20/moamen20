@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Moamen</h1>
-<h3 align="center">A passionate computer engineering student from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 - 📫 How to reach me: moemen35@gmail.com
 <h3 align="left">Connect with me:</h3>
