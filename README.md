@@ -10,6 +10,25 @@
 <a href="https://www.hackerrank.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moemen35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moemen35" height="30" width="40" /></a>
 </p>
+# 💻 Data Engineer Portfolio
+
+## 👋 About Me
+I'm a **Data Engineer** passionate about building scalable data pipelines and analytics solutions. My experience spans **ETL, data modeling, dashboarding, and cloud computing**, with a strong background in SQL and Python.
+
+## 🔧 Skills & Technologies
+- **Data Engineering:** Apache Airflow, dbt, Apache Spark
+- **Databases:** PostgreSQL, SQL Server, Oracle Autonomous Data Warehouse
+- **Cloud Platforms:** OCI, Azure
+- **Big Data Tools:** Elasticsearch, Logstash (ELK Stack)
+- **Data Visualization:** Power BI
+- **Programming:** Python, SQL
+- **Containers & Orchestration:** Docker
+
+
+## 📫 Connect with Me
+- **LinkedIn:** [Your Profile](#)
+- **Upwork:** [Your Profile](#)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
