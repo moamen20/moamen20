@@ -14,7 +14,6 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and an
 - **Containers & Orchestration:** Docker
 
 
-- 📫 How to reach me: moamen.nssar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +22,5 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and an
 <a href="https://www.hackerrank.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moemen35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moemen35" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me: moamen.nssar@gmail.com
