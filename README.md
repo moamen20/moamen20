@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Moamen</h1>
 
-- 📫 How to reach me: moamen.nssar@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moemenls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moemenls" height="30" width="40" /></a>
@@ -21,5 +20,8 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and an
 - **Data Visualization:** Power BI
 - **Programming:** Python, SQL
 - **Containers & Orchestration:** Docker
+
+
+- 📫 How to reach me: moamen.nssar@gmail.com
 
 
