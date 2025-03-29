@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Moamen</h1>
-<h3 align="center">A passionate Data scientist from Egypt</h3>
 
 - 📫 How to reach me: moamen.nssar@gmail.com
 <h3 align="left">Connect with me:</h3>
@@ -10,7 +9,6 @@
 <a href="https://www.hackerrank.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moemen35" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moemen35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moemen35" height="30" width="40" /></a>
 </p>
-# 💻 Data Engineer Portfolio
 
 ## 👋 About Me
 I'm a **Data Engineer** passionate about building scalable data pipelines and analytics solutions. My experience spans **ETL, data modeling, dashboarding, and cloud computing**, with a strong background in SQL and Python.
@@ -25,21 +23,3 @@ I'm a **Data Engineer** passionate about building scalable data pipelines and an
 - **Containers & Orchestration:** Docker
 
 
-## 📫 Connect with Me
-- **LinkedIn:** [Your Profile](#)
-- **Upwork:** [Your Profile](#)
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
